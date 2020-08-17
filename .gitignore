@@ -1,0 +1,12 @@
+Gráficos/
+Histórico/
+Logs/
+Apresentacao.pptx
+lista_de_emails.xlsx
+src/__pycache__
+src/build
+src/dist
+.idea/
+.ipynb_checkpoints/
+src/designer/__pycache__
+*.swp
