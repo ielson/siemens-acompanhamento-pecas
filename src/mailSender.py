@@ -153,7 +153,7 @@ def plotter(caminhoHistorico):
             #plt.text(historico["Data"].iloc[-1], objetivo[-1], 'Objetivo', color=plotObj[0].get_color())
 
             plt.ylim(0)
-            fig.savefig("{}\{}.png".format(pastaGraficos, CSE), bbox_inches='tight')
+            fig.savefig(os.path.join(pastaGraficos, '{}.png'.format(CSE)), bbox_inches='tight')
             plt.cla()
 
     # geração de gráficos do gestor
@@ -170,7 +170,7 @@ def plotter(caminhoHistorico):
     p = np.poly1d(z)
     plt.plot(historico["Data"], p(historico["Data"], 'r--'))
     """
-    fig.savefig("{}\gestor1.png".format(pastaGraficos), bbox_inches='tight')
+    fig.savefig(os.path.join(pastaGraficos, 'gestor1.png'), bbox_inches='tight')
     plt.cla()
 
     cam = (213343.58, 171195.11)
@@ -197,7 +197,7 @@ def plotter(caminhoHistorico):
     plt.xlabel('Regional')
     plt.ylabel('Variação percentual')
     plt.xticks(range(len(varRegionais)), list(varRegionais.keys()))
-    fig.savefig("{}\gestor2.png".format(pastaGraficos), bbox_inches='tight')
+    fig.savefig(os.path.join(pastaGraficos, 'gestor2.png'), bbox_inches='tight')
     plt.cla()
 
     plotRegionais = ax.plot("")
@@ -221,7 +221,7 @@ class Colaborador:
         pass
 
     def get_graph(self):
-        return '../Gráficos/{}.png'.format(self.nome)
+        return os.path.join(pastaGraficos, '{}.png'.format(self.nome))
 
 def mail_sender(colaborador, server):
     message = EmailMessage()
@@ -326,9 +326,18 @@ def main(planilha):
         global CSES
 
         basic_logger.info("Inicializando o programa")
+        print('dir padra: {}'.format(diretorioPadrao))
+        print('pasta graficos: {}'.format(pastaGraficos))
+        print('caminho emails: {}'.format(caminhoEmails))
+
+
         QtWidgets.QApplication.processEvents()
         if not os.path.exists(pastaGraficos):
-            os.makedirs(pastaGraficos)
+            os.mkdir(pastaGraficos)
+            print('criando pasta')
+        else:
+            print('pasta existe')
+        print('pos pasta')
         codigoHtml = predefinicoes.html_email
 
         reportLogistica = pd.read_excel(planilha, header=0)
@@ -396,26 +405,28 @@ def main(planilha):
         context = ssl.create_default_context()
         s = smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context)
         s.set_debuglevel(False)
-        """
         with s as server:
             basic_logger.info("Fazendo login no servidor de email")
             server.login(sender_email, password)
             for colaborador in dictCSES.values():
                 mail_sender(colaborador, server)
             mail_gestor(gestor, historic, server)
-        """
     except AttributeError:
-        basic_logger.error("Formato de arquivo não corresponde ao report de peças esperado.")
+        basic_logger.exception("Formato de arquivo não corresponde ao report de peças esperado.")
         basic_logger.warning("Favor escolher outro arquivo.")
     except KeyError as cseNaoEncontrado:
         basic_logger.error("O CSE {} não foi encontrado".format(cseNaoEncontrado))
         basic_logger.warning("Favor verificar o nome na lista de emails")
     except Exception as error:
         print(error)
-sender_email = "controle.pecas.nor"
-password = "123siemens!"
-pastaGraficos = '../Gráficos'
-caminhoEmails = '../lista_de_emails.xlsx'
+sender_email = "parts.nord"
+password = "partsnord2020"
+diretorioPadrao =  os.path.abspath('..')
+print('dir padra: {}'.format(diretorioPadrao))
+pastaGraficos = os.path.join(diretorioPadrao, 'graficos')
+print('pasta graficos: {}'.format(pastaGraficos))
+caminhoEmails = os.path.join(diretorioPadrao, 'lista_de_emails.xlsx')
+print('caminho emails: {}'.format(caminhoEmails))
 
 if __name__ == '__main__':
     planilha = '../Histórico/'

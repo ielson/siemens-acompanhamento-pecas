@@ -1,0 +1,531 @@
+2020-08-17 11:03:01,867 INFO Arquivo Selecionado com sucesso 
+2020-08-17 11:03:01,870 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Histórico/Report Peças em campo 30_10 - SAS.xlsx
+2020-08-17 11:03:04,798 INFO Inicializando o programa
+2020-08-17 11:03:14,553 INFO Inicializando o programa
+2020-08-17 11:03:16,991 INFO Parando o programa
+2020-08-17 11:03:46,954 INFO Arquivo Selecionado com sucesso 
+2020-08-17 11:03:46,957 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Histórico/Report Peças em campo 02_10 - SAS.xlsx
+2020-08-17 11:03:51,238 INFO Inicializando o programa
+2020-08-17 11:03:52,024 INFO Lendo planilha gerada em 2020-10-02
+2020-08-17 11:12:04,434 INFO Arquivo Selecionado com sucesso 
+2020-08-17 11:12:04,438 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Histórico/Report Peças em campo 02_10 - SAS.xlsx
+2020-08-17 11:12:09,560 INFO Inicializando o programa
+2020-08-17 11:12:10,369 INFO Lendo planilha gerada em 2020-10-02
+2020-08-17 11:12:10,408 INFO Gerando histórico dos CSES
+2020-08-17 11:12:10,408 INFO Atualizando arquivo de histórico
+2020-08-17 11:12:10,409 INFO Arquivo de histórico atualizado
+2020-08-17 11:12:10,507 INFO Gerando gráfico para Warley
+2020-08-17 11:12:10,924 INFO Gerando gráfico para Alan
+2020-08-17 11:12:11,310 INFO Gerando gráfico para Getulio
+2020-08-17 11:12:11,709 INFO Gerando gráfico para Joao
+2020-08-17 11:12:12,105 INFO Gerando gráfico para Jackson
+2020-08-17 11:12:12,518 INFO Gerando gráfico para Gabriel
+2020-08-17 11:12:12,933 INFO Gerando gráfico para Paulo
+2020-08-17 11:12:13,326 INFO Gerando gráfico para Guaraci
+2020-08-17 11:12:13,328 INFO Parando o programa
+2020-08-17 11:29:57,867 INFO Arquivo Selecionado com sucesso 
+2020-08-17 11:29:57,869 INFO Caminho do arquivo: 
+2020-08-17 11:30:21,516 INFO Arquivo Selecionado com sucesso 
+2020-08-17 11:30:21,516 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Histórico/Report Peças em campo 05_08 - SAS.xlsx
+2020-08-17 11:30:24,584 INFO Inicializando o programa
+2020-08-17 11:30:25,170 ERROR Formato de arquivo não corresponde ao report de peças esperado.
+2020-08-17 11:30:25,171 WARNING Favor escolher outro arquivo.
+2020-08-17 13:01:49,070 INFO Arquivo Selecionado com sucesso 
+2020-08-17 13:01:49,099 INFO Caminho do arquivo: 
+2020-08-17 13:08:26,366 INFO Arquivo Selecionado com sucesso 
+2020-08-17 13:08:26,366 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Histórico/Report Peças em campo 05_08 - SAS.xlsx
+2020-08-17 13:08:27,972 INFO Inicializando o programa
+2020-08-17 13:08:28,591 ERROR Formato de arquivo não corresponde ao report de peças esperado.
+2020-08-17 13:08:28,592 WARNING Favor escolher outro arquivo.
+2020-08-17 13:14:44,238 INFO Arquivo Selecionado com sucesso 
+2020-08-17 13:14:44,238 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Histórico/Report Peças em campo 05_08 - SAS.xlsx
+2020-08-17 13:14:50,510 INFO Inicializando o programa
+2020-08-17 13:14:51,083 ERROR Formato de arquivo não corresponde ao report de peças esperado.
+2020-08-17 13:14:51,084 WARNING Favor escolher outro arquivo.
+2020-08-17 13:18:04,810 INFO Arquivo Selecionado com sucesso 
+2020-08-17 13:18:04,810 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Histórico/Report Peças em campo 05_08 - SAS.xlsx
+2020-08-17 13:18:06,645 INFO Inicializando o programa
+2020-08-17 13:18:07,232 INFO Lendo planilha gerada em 2020-08-05
+2020-08-17 13:18:07,266 ERROR O CSE '33090799 - ICARO FERNANDO FONSECA BRAGA' não foi encontrado
+2020-08-17 13:18:07,267 WARNING Favor verificar o nome na lista de emails
+2020-08-17 13:21:42,174 INFO Arquivo Selecionado com sucesso 
+2020-08-17 13:21:42,175 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Histórico/Report Peças em campo 05_08 - SAS.xlsx
+2020-08-17 13:21:44,088 INFO Inicializando o programa
+2020-08-17 13:21:44,682 INFO Lendo planilha gerada em 2020-08-05
+2020-08-17 13:21:44,742 INFO Gerando histórico dos CSES
+2020-08-17 13:21:44,743 INFO Atualizando arquivo de histórico
+2020-08-17 13:21:44,744 INFO Arquivo de histórico atualizado
+2020-08-17 13:21:44,836 INFO Gerando gráfico para Warley
+2020-08-17 13:21:45,084 INFO Gerando gráfico para Alan
+2020-08-17 13:21:45,459 INFO Gerando gráfico para Getulio
+2020-08-17 13:21:45,862 INFO Gerando gráfico para Joao
+2020-08-17 13:21:46,257 INFO Gerando gráfico para Jackson
+2020-08-17 13:21:46,649 INFO Gerando gráfico para Gabriel
+2020-08-17 13:21:47,054 INFO Gerando gráfico para Paulo
+2020-08-17 13:21:47,459 INFO Gerando gráfico para Guaraci
+2020-08-17 13:21:47,737 INFO Gerando gráfico para Felipe
+2020-08-17 13:21:47,968 INFO Gerando gráfico para Eduardo
+2020-08-17 13:21:48,204 INFO Gerando gráfico para Silvio
+2020-08-17 13:21:48,520 INFO Gerando gráfico para Thiago
+2020-08-17 13:21:48,522 INFO Parando o programa
+2020-08-17 13:36:49,082 INFO Inicializando o programa
+2020-08-17 13:36:50,003 ERROR Formato de arquivo não corresponde ao report de peças esperado.
+2020-08-17 13:36:50,003 WARNING Favor escolher outro arquivo.
+2020-08-17 13:37:08,818 INFO Arquivo Selecionado com sucesso 
+2020-08-17 13:37:08,819 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Histórico/Report Peças em campo 05_08 - SAS.xlsx
+2020-08-17 13:37:11,193 INFO Inicializando o programa
+2020-08-17 13:37:11,776 INFO Lendo planilha gerada em 2020-08-05
+2020-08-17 13:37:11,800 INFO Gerando histórico dos CSES
+2020-08-17 13:37:11,800 INFO Atualizando arquivo de histórico
+2020-08-17 13:37:11,802 INFO Arquivo de histórico atualizado
+2020-08-17 13:37:11,878 INFO Gerando gráfico para Warley
+2020-08-17 13:37:12,295 INFO Gerando gráfico para Alan
+2020-08-17 13:37:12,692 INFO Gerando gráfico para Getulio
+2020-08-17 13:37:13,096 INFO Gerando gráfico para Joao
+2020-08-17 13:37:13,492 INFO Gerando gráfico para Jackson
+2020-08-17 13:37:13,891 INFO Gerando gráfico para Gabriel
+2020-08-17 13:37:14,163 INFO Gerando gráfico para Paulo
+2020-08-17 13:37:14,395 INFO Gerando gráfico para Guaraci
+2020-08-17 13:37:14,632 INFO Gerando gráfico para Felipe
+2020-08-17 13:37:14,863 INFO Gerando gráfico para Eduardo
+2020-08-17 13:37:15,097 INFO Gerando gráfico para Silvio
+2020-08-17 13:37:15,356 INFO Gerando gráfico para Thiago
+2020-08-17 13:37:15,590 INFO Gerando gráfico para Fabio
+2020-08-17 13:37:15,823 INFO Gerando gráfico para Barbara
+2020-08-17 13:37:16,218 INFO Gerando gráfico para Rafael
+2020-08-17 13:37:16,619 INFO Gerando gráfico para Carlos
+2020-08-17 13:37:17,015 INFO Gerando gráfico para Israel
+2020-08-17 13:37:17,418 INFO Gerando gráfico para Augusto
+2020-08-17 13:37:17,819 INFO Gerando gráfico para Jario
+2020-08-17 13:37:18,116 INFO Gerando gráfico para Luiz
+2020-08-17 13:37:18,516 INFO Gerando gráfico para Icaro
+2020-08-17 13:37:18,916 INFO Gerando gráficos do gestor
+2020-08-17 13:37:36,253 INFO Parando o programa
+2020-09-03 11:08:10,026 INFO Arquivo Selecionado com sucesso 
+2020-09-03 11:08:10,098 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Relatorio_Peças_SAS_01_09.xlsx
+2020-09-03 11:08:13,485 INFO Inicializando o programa
+2020-09-03 11:09:37,039 INFO Parando o programa
+2020-09-03 11:14:34,694 INFO Arquivo Selecionado com sucesso 
+2020-09-03 11:14:34,695 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Report Peças em campo 01_09 - SAS.xlsx
+2020-09-03 11:14:37,746 INFO Inicializando o programa
+2020-09-03 11:14:38,402 INFO Lendo planilha gerada em 2020-09-01
+2020-09-03 11:14:38,434 ERROR O CSE '33090741 - SILAS MARINHO' não foi encontrado
+2020-09-03 11:14:38,434 WARNING Favor verificar o nome na lista de emails
+2020-09-03 11:20:51,993 INFO Arquivo Selecionado com sucesso 
+2020-09-03 11:20:51,995 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Report Peças em campo 01_09 - SAS.xlsx
+2020-09-03 11:20:54,364 INFO Inicializando o programa
+2020-09-03 11:20:54,987 INFO Lendo planilha gerada em 2020-09-01
+2020-09-03 11:20:55,028 ERROR O CSE '33047767 - WAGNER RONDON COELHO DA SILVA' não foi encontrado
+2020-09-03 11:20:55,029 WARNING Favor verificar o nome na lista de emails
+2020-09-03 11:21:47,426 INFO Arquivo Selecionado com sucesso 
+2020-09-03 11:21:47,429 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Report Peças em campo 01_09 - SAS.xlsx
+2020-09-03 11:21:49,687 INFO Inicializando o programa
+2020-09-03 11:21:50,356 INFO Lendo planilha gerada em 2020-09-01
+2020-09-03 11:21:50,374 ERROR O CSE '33090096 - RAUL VAZ DE PAULA' não foi encontrado
+2020-09-03 11:21:50,375 WARNING Favor verificar o nome na lista de emails
+2020-09-03 11:22:02,901 INFO Parando o programa
+2020-09-03 11:22:26,056 INFO Arquivo Selecionado com sucesso 
+2020-09-03 11:22:26,058 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Report Peças em campo 01_09 - SAS.xlsx
+2020-09-03 11:22:28,297 INFO Inicializando o programa
+2020-09-03 11:22:28,954 INFO Lendo planilha gerada em 2020-09-01
+2020-09-03 11:22:28,975 ERROR O CSE '33090765 - DANIEL DE ANDRADE' não foi encontrado
+2020-09-03 11:22:28,976 WARNING Favor verificar o nome na lista de emails
+2020-09-03 11:23:17,189 INFO Arquivo Selecionado com sucesso 
+2020-09-03 11:23:17,190 INFO Caminho do arquivo: 
+2020-09-03 11:23:18,361 INFO Inicializando o programa
+2020-09-03 11:23:23,615 INFO Arquivo Selecionado com sucesso 
+2020-09-03 11:23:23,617 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Report Peças em campo 01_09 - SAS.xlsx
+2020-09-03 11:23:26,084 INFO Inicializando o programa
+2020-09-03 11:23:26,764 INFO Lendo planilha gerada em 2020-09-01
+2020-09-03 11:23:26,850 INFO Gerando histórico dos CSES
+2020-09-03 11:23:26,854 INFO Atualizando arquivo de histórico
+2020-09-03 11:23:26,864 INFO Arquivo de histórico atualizado
+2020-09-03 11:23:26,973 INFO Gerando gráfico para Warley
+2020-09-03 11:23:27,403 INFO Gerando gráfico para Alan
+2020-09-03 11:23:27,803 INFO Gerando gráfico para Getulio
+2020-09-03 11:23:28,149 INFO Gerando gráfico para Joao
+2020-09-03 11:23:28,385 INFO Gerando gráfico para Jackson
+2020-09-03 11:23:28,791 INFO Gerando gráfico para Gabriel
+2020-09-03 11:23:29,083 INFO Gerando gráfico para Paulo
+2020-09-03 11:23:29,338 INFO Gerando gráfico para Guaraci
+2020-09-03 11:23:29,578 INFO Gerando gráfico para Felipe
+2020-09-03 11:23:29,988 INFO Gerando gráfico para Eduardo
+2020-09-03 11:23:30,291 INFO Gerando gráfico para Silvio
+2020-09-03 11:23:30,534 INFO Gerando gráfico para Thiago
+2020-09-03 11:23:30,793 INFO Gerando gráfico para Fabio
+2020-09-03 11:23:31,028 INFO Gerando gráfico para Barbara
+2020-09-03 11:23:31,261 INFO Gerando gráfico para Rafael
+2020-09-03 11:23:31,501 INFO Gerando gráfico para Carlos
+2020-09-03 11:23:31,752 INFO Gerando gráfico para Israel
+2020-09-03 11:23:32,166 INFO Gerando gráfico para Augusto
+2020-09-03 11:23:32,411 INFO Gerando gráfico para Jario
+2020-09-03 11:23:32,647 INFO Gerando gráfico para Luiz
+2020-09-03 11:23:32,910 INFO Gerando gráfico para Icaro
+2020-09-03 11:23:33,149 INFO Gerando gráfico para Gustavo
+2020-09-03 11:23:33,556 INFO Gerando gráfico para Silas
+2020-09-03 11:23:33,870 INFO Gerando gráfico para Iago
+2020-09-03 11:23:34,139 INFO Gerando gráfico para Gersiano
+2020-09-03 11:23:34,377 INFO Gerando gráfico para Leandro
+2020-09-03 11:23:34,618 INFO Gerando gráfico para Franco
+2020-09-03 11:23:34,979 INFO Gerando gráfico para Daniel
+2020-09-03 11:23:35,384 INFO Gerando gráfico para Leonardo
+2020-09-03 11:23:35,793 INFO Gerando gráfico para Raul
+2020-09-03 11:23:36,201 INFO Gerando gráfico para Gabriela
+2020-09-03 11:23:36,530 INFO Gerando gráfico para Ademilson
+2020-09-03 11:23:36,787 INFO Gerando gráfico para Wagner
+2020-09-03 11:23:37,028 INFO Gerando gráfico para Alberto
+2020-09-03 11:23:37,268 INFO Gerando gráfico para Dalmo
+2020-09-03 11:23:37,512 INFO Gerando gráficos do gestor
+2020-09-03 11:23:52,084 INFO Parando o programa
+2020-09-03 11:59:19,850 INFO Arquivo Selecionado com sucesso 
+2020-09-03 11:59:19,851 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Report Peças em campo 01_09 - SAS.xlsx
+2020-09-03 11:59:21,808 INFO Inicializando o programa
+2020-09-03 11:59:22,468 INFO Lendo planilha gerada em 2020-09-01
+2020-09-03 11:59:22,506 INFO Gerando histórico dos CSES
+2020-09-03 11:59:22,507 INFO Atualizando arquivo de histórico
+2020-09-03 11:59:22,508 INFO Arquivo de histórico atualizado
+2020-09-03 11:59:22,603 INFO Gerando gráfico para Warley
+2020-09-03 11:59:22,844 INFO Gerando gráfico para Alan
+2020-09-03 11:59:23,080 INFO Gerando gráfico para Getulio
+2020-09-03 11:59:23,440 INFO Gerando gráfico para Joao
+2020-09-03 11:59:23,673 INFO Gerando gráfico para Jackson
+2020-09-03 11:59:24,073 INFO Gerando gráfico para Gabriel
+2020-09-03 11:59:24,470 INFO Gerando gráfico para Paulo
+2020-09-03 11:59:24,862 INFO Gerando gráfico para Guaraci
+2020-09-03 11:59:25,255 INFO Gerando gráfico para Felipe
+2020-09-03 11:59:25,651 INFO Gerando gráfico para Eduardo
+2020-09-03 11:59:26,053 INFO Gerando gráfico para Silvio
+2020-09-03 11:59:26,307 INFO Gerando gráfico para Thiago
+2020-09-03 11:59:26,592 INFO Gerando gráfico para Fabio
+2020-09-03 11:59:26,826 INFO Gerando gráfico para Barbara
+2020-09-03 11:59:27,232 INFO Gerando gráfico para Rafael
+2020-09-03 11:59:27,639 INFO Gerando gráfico para Carlos
+2020-09-03 11:59:28,039 INFO Gerando gráfico para Israel
+2020-09-03 11:59:28,441 INFO Gerando gráfico para Augusto
+2020-09-03 11:59:28,842 INFO Gerando gráfico para Jario
+2020-09-03 11:59:29,150 INFO Gerando gráfico para Luiz
+2020-09-03 11:59:29,384 INFO Gerando gráfico para Icaro
+2020-09-03 11:59:29,617 INFO Gerando gráfico para Gustavo
+2020-09-03 11:59:29,887 INFO Gerando gráfico para Silas
+2020-09-03 11:59:30,293 INFO Gerando gráfico para Iago
+2020-09-03 11:59:30,696 INFO Gerando gráfico para Gersiano
+2020-09-03 11:59:31,108 INFO Gerando gráfico para Leandro
+2020-09-03 11:59:31,523 INFO Gerando gráfico para Franco
+2020-09-03 11:59:31,953 INFO Gerando gráfico para Daniel
+2020-09-03 11:59:32,353 INFO Gerando gráfico para Leonardo
+2020-09-03 11:59:32,758 INFO Gerando gráfico para Raul
+2020-09-03 11:59:33,163 INFO Gerando gráfico para Gabriela
+2020-09-03 11:59:33,564 INFO Gerando gráfico para Ademilson
+2020-09-03 11:59:33,970 INFO Gerando gráfico para Wagner
+2020-09-03 11:59:34,376 INFO Gerando gráfico para Alberto
+2020-09-03 11:59:34,777 INFO Gerando gráfico para Dalmo
+2020-09-03 11:59:35,182 INFO Gerando gráficos do gestor
+2020-09-03 11:59:36,658 INFO Fazendo login no servidor de email
+2020-09-03 11:59:43,120 INFO Parando o programa
+2020-09-03 12:02:41,953 INFO Arquivo Selecionado com sucesso 
+2020-09-03 12:02:41,955 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Report Peças em campo 01_09 - SAS.xlsx
+2020-09-03 12:02:44,585 INFO Inicializando o programa
+2020-09-03 12:02:45,232 INFO Lendo planilha gerada em 2020-09-01
+2020-09-03 12:02:45,271 INFO Gerando histórico dos CSES
+2020-09-03 12:02:45,272 INFO Atualizando arquivo de histórico
+2020-09-03 12:02:45,273 INFO Arquivo de histórico atualizado
+2020-09-03 12:02:45,350 INFO Gerando gráfico para Warley
+2020-09-03 12:02:45,595 INFO Gerando gráfico para Alan
+2020-09-03 12:02:45,833 INFO Gerando gráfico para Getulio
+2020-09-03 12:02:46,074 INFO Gerando gráfico para Joao
+2020-09-03 12:02:46,313 INFO Gerando gráfico para Jackson
+2020-09-03 12:02:46,546 INFO Gerando gráfico para Gabriel
+2020-09-03 12:02:46,782 INFO Gerando gráfico para Paulo
+2020-09-03 12:02:47,184 INFO Gerando gráfico para Guaraci
+2020-09-03 12:02:47,577 INFO Gerando gráfico para Felipe
+2020-09-03 12:02:47,973 INFO Gerando gráfico para Eduardo
+2020-09-03 12:02:48,377 INFO Gerando gráfico para Silvio
+2020-09-03 12:02:48,806 INFO Gerando gráfico para Thiago
+2020-09-03 12:02:49,210 INFO Gerando gráfico para Fabio
+2020-09-03 12:02:49,614 INFO Gerando gráfico para Barbara
+2020-09-03 12:02:50,012 INFO Gerando gráfico para Rafael
+2020-09-03 12:02:50,419 INFO Gerando gráfico para Carlos
+2020-09-03 12:02:50,711 INFO Gerando gráfico para Israel
+2020-09-03 12:02:50,950 INFO Gerando gráfico para Augusto
+2020-09-03 12:02:51,188 INFO Gerando gráfico para Jario
+2020-09-03 12:02:51,432 INFO Gerando gráfico para Luiz
+2020-09-03 12:02:51,844 INFO Gerando gráfico para Icaro
+2020-09-03 12:02:52,080 INFO Gerando gráfico para Gustavo
+2020-09-03 12:02:52,485 INFO Gerando gráfico para Silas
+2020-09-03 12:02:52,887 INFO Gerando gráfico para Iago
+2020-09-03 12:02:53,190 INFO Gerando gráfico para Gersiano
+2020-09-03 12:02:53,598 INFO Gerando gráfico para Leandro
+2020-09-03 12:02:54,004 INFO Gerando gráfico para Franco
+2020-09-03 12:02:54,418 INFO Gerando gráfico para Daniel
+2020-09-03 12:02:54,826 INFO Gerando gráfico para Leonardo
+2020-09-03 12:02:55,233 INFO Gerando gráfico para Raul
+2020-09-03 12:02:55,639 INFO Gerando gráfico para Gabriela
+2020-09-03 12:02:56,050 INFO Gerando gráfico para Ademilson
+2020-09-03 12:02:56,462 INFO Gerando gráfico para Wagner
+2020-09-03 12:02:56,869 INFO Gerando gráfico para Alberto
+2020-09-03 12:02:57,143 INFO Gerando gráfico para Dalmo
+2020-09-03 12:02:57,385 INFO Gerando gráficos do gestor
+2020-09-03 12:02:58,493 INFO Fazendo login no servidor de email
+2020-09-03 12:03:07,198 INFO Parando o programa
+2020-09-03 12:05:46,158 INFO Arquivo Selecionado com sucesso 
+2020-09-03 12:05:46,159 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Report Peças em campo 01_09 - SAS.xlsx
+2020-09-03 12:05:48,355 INFO Inicializando o programa
+2020-09-03 12:05:49,008 INFO Lendo planilha gerada em 2020-09-01
+2020-09-03 12:05:49,047 INFO Gerando histórico dos CSES
+2020-09-03 12:05:49,047 INFO Atualizando arquivo de histórico
+2020-09-03 12:05:49,048 INFO Arquivo de histórico atualizado
+2020-09-03 12:05:49,125 INFO Gerando gráfico para Warley
+2020-09-03 12:05:49,373 INFO Gerando gráfico para Alan
+2020-09-03 12:05:49,776 INFO Gerando gráfico para Getulio
+2020-09-03 12:05:50,181 INFO Gerando gráfico para Joao
+2020-09-03 12:05:50,587 INFO Gerando gráfico para Jackson
+2020-09-03 12:05:50,895 INFO Gerando gráfico para Gabriel
+2020-09-03 12:05:51,126 INFO Gerando gráfico para Paulo
+2020-09-03 12:05:51,364 INFO Gerando gráfico para Guaraci
+2020-09-03 12:05:51,619 INFO Gerando gráfico para Felipe
+2020-09-03 12:05:52,020 INFO Gerando gráfico para Eduardo
+2020-09-03 12:05:52,424 INFO Gerando gráfico para Silvio
+2020-09-03 12:05:52,752 INFO Gerando gráfico para Thiago
+2020-09-03 12:05:52,989 INFO Gerando gráfico para Fabio
+2020-09-03 12:05:53,225 INFO Gerando gráfico para Barbara
+2020-09-03 12:05:53,497 INFO Gerando gráfico para Rafael
+2020-09-03 12:05:53,901 INFO Gerando gráfico para Carlos
+2020-09-03 12:05:54,205 INFO Gerando gráfico para Israel
+2020-09-03 12:05:54,448 INFO Gerando gráfico para Augusto
+2020-09-03 12:05:54,683 INFO Gerando gráfico para Jario
+2020-09-03 12:05:54,917 INFO Gerando gráfico para Luiz
+2020-09-03 12:05:55,153 INFO Gerando gráfico para Icaro
+2020-09-03 12:05:55,560 INFO Gerando gráfico para Gustavo
+2020-09-03 12:05:55,966 INFO Gerando gráfico para Silas
+2020-09-03 12:05:56,371 INFO Gerando gráfico para Iago
+2020-09-03 12:05:56,780 INFO Gerando gráfico para Gersiano
+2020-09-03 12:05:57,192 INFO Gerando gráfico para Leandro
+2020-09-03 12:05:57,601 INFO Gerando gráfico para Franco
+2020-09-03 12:05:57,900 INFO Gerando gráfico para Daniel
+2020-09-03 12:05:58,136 INFO Gerando gráfico para Leonardo
+2020-09-03 12:05:58,375 INFO Gerando gráfico para Raul
+2020-09-03 12:05:58,781 INFO Gerando gráfico para Gabriela
+2020-09-03 12:05:59,185 INFO Gerando gráfico para Ademilson
+2020-09-03 12:05:59,597 INFO Gerando gráfico para Wagner
+2020-09-03 12:06:00,009 INFO Gerando gráfico para Alberto
+2020-09-03 12:06:00,415 INFO Gerando gráfico para Dalmo
+2020-09-03 12:06:00,823 INFO Gerando gráficos do gestor
+2020-09-03 12:06:01,993 INFO Fazendo login no servidor de email
+2020-09-03 12:06:08,068 INFO Parando o programa
+2020-09-11 11:49:25,851 INFO Arquivo Selecionado com sucesso 
+2020-09-11 11:49:25,876 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Report Peças em campo 01_09 - SAS.xlsx
+2020-09-11 11:49:27,473 INFO Inicializando o programa
+2020-09-11 11:49:27,475 ERROR Formato de arquivo não corresponde ao report de peças esperado.
+2020-09-11 11:49:27,477 WARNING Favor escolher outro arquivo.
+2020-09-11 11:49:38,186 INFO Parando o programa
+2020-09-11 11:50:42,275 INFO Arquivo Selecionado com sucesso 
+2020-09-11 11:50:42,277 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Report Peças em campo 01_09 - SAS.xlsx
+2020-09-11 11:50:44,689 INFO Inicializando o programa
+2020-09-11 11:50:44,694 ERROR Formato de arquivo não corresponde ao report de peças esperado.
+2020-09-11 11:50:44,696 WARNING Favor escolher outro arquivo.
+2020-09-11 11:50:51,597 INFO Parando o programa
+2020-09-11 11:52:53,413 INFO Arquivo Selecionado com sucesso 
+2020-09-11 11:52:53,415 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Report Peças em campo 01_09 - SAS.xlsx
+2020-09-11 11:52:54,567 INFO Inicializando o programa
+2020-09-11 11:52:54,572 ERROR Formato de arquivo não corresponde ao report de peças esperado.
+2020-09-11 11:52:54,575 WARNING Favor escolher outro arquivo.
+2020-09-11 11:55:25,383 INFO Arquivo Selecionado com sucesso 
+2020-09-11 11:55:25,386 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Report Peças em campo 01_09 - SAS.xlsx
+2020-09-11 11:55:27,356 INFO Inicializando o programa
+2020-09-11 11:55:27,362 ERROR Formato de arquivo não corresponde ao report de peças esperado.
+2020-09-11 11:55:27,364 WARNING Favor escolher outro arquivo.
+2020-09-11 11:57:21,946 INFO Arquivo Selecionado com sucesso 
+2020-09-11 11:57:21,949 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Report Peças em campo 01_09 - SAS.xlsx
+2020-09-11 11:57:24,807 INFO Inicializando o programa
+2020-09-11 11:57:24,812 ERROR Formato de arquivo não corresponde ao report de peças esperado.
+Traceback (most recent call last):
+  File "/media/storage/memorias/code/siemens/acompanhamento-pecas/src/mailSender.py", line 336, in main
+    os.makedir(pastaGraficos)
+AttributeError: module 'os' has no attribute 'makedir'
+2020-09-11 11:57:24,818 WARNING Favor escolher outro arquivo.
+2020-09-11 11:58:50,951 INFO Arquivo Selecionado com sucesso 
+2020-09-11 11:58:50,954 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Report Peças em campo 01_09 - SAS.xlsx
+2020-09-11 11:58:53,621 INFO Inicializando o programa
+2020-09-11 11:58:54,474 INFO Lendo planilha gerada em 2020-09-01
+2020-09-11 11:58:54,576 INFO Gerando histórico dos CSES
+2020-09-11 11:58:54,577 INFO Atualizando arquivo de histórico
+2020-09-11 11:58:54,578 INFO Arquivo de histórico atualizado
+2020-09-11 11:58:54,710 INFO Gerando gráfico para Warley
+2020-09-11 11:58:55,144 INFO Gerando gráfico para Alan
+2020-09-11 11:58:55,575 INFO Gerando gráfico para Getulio
+2020-09-11 11:58:56,013 INFO Gerando gráfico para Joao
+2020-09-11 11:58:56,347 INFO Gerando gráfico para Jackson
+2020-09-11 11:58:56,741 INFO Gerando gráfico para Gabriel
+2020-09-11 11:58:57,169 INFO Gerando gráfico para Paulo
+2020-09-11 11:58:57,566 INFO Gerando gráfico para Guaraci
+2020-09-11 11:58:57,918 INFO Gerando gráfico para Felipe
+2020-09-11 11:58:58,307 INFO Gerando gráfico para Eduardo
+2020-09-11 11:58:58,695 INFO Gerando gráfico para Silvio
+2020-09-11 11:58:59,124 INFO Gerando gráfico para Thiago
+2020-09-11 11:58:59,544 INFO Gerando gráfico para Fabio
+2020-09-11 11:58:59,958 INFO Gerando gráfico para Barbara
+2020-09-11 11:59:00,374 INFO Gerando gráfico para Rafael
+2020-09-11 11:59:00,805 INFO Gerando gráfico para Carlos
+2020-09-11 11:59:01,233 INFO Gerando gráfico para Israel
+2020-09-11 11:59:01,656 INFO Gerando gráfico para Augusto
+2020-09-11 11:59:02,088 INFO Gerando gráfico para Jario
+2020-09-11 11:59:02,442 INFO Gerando gráfico para Luiz
+2020-09-11 11:59:02,804 INFO Gerando gráfico para Icaro
+2020-09-11 11:59:03,241 INFO Gerando gráfico para Gustavo
+2020-09-11 11:59:03,668 INFO Gerando gráfico para Silas
+2020-09-11 11:59:04,092 INFO Gerando gráfico para Iago
+2020-09-11 11:59:04,433 INFO Gerando gráfico para Gersiano
+2020-09-11 11:59:04,864 INFO Gerando gráfico para Leandro
+2020-09-11 11:59:05,148 INFO Gerando gráfico para Franco
+2020-09-11 11:59:05,436 INFO Gerando gráfico para Daniel
+2020-09-11 11:59:05,806 INFO Gerando gráfico para Leonardo
+2020-09-11 11:59:06,186 INFO Gerando gráfico para Raul
+2020-09-11 11:59:06,600 INFO Gerando gráfico para Gabriela
+2020-09-11 11:59:07,029 INFO Gerando gráfico para Ademilson
+2020-09-11 11:59:07,439 INFO Gerando gráfico para Wagner
+2020-09-11 11:59:07,862 INFO Gerando gráfico para Alberto
+2020-09-11 11:59:08,288 INFO Gerando gráfico para Dalmo
+2020-09-11 11:59:08,734 INFO Gerando gráficos do gestor
+2020-09-11 11:59:10,095 INFO Fazendo login no servidor de email
+2020-09-11 11:59:11,638 INFO Parando o programa
+2020-09-11 12:02:26,881 INFO Arquivo Selecionado com sucesso 
+2020-09-11 12:02:26,885 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Report Peças em campo 01_09 - SAS.xlsx
+2020-09-11 12:02:27,983 INFO Inicializando o programa
+2020-09-11 12:02:28,718 INFO Lendo planilha gerada em 2020-09-01
+2020-09-11 12:02:28,758 INFO Gerando histórico dos CSES
+2020-09-11 12:02:28,759 INFO Atualizando arquivo de histórico
+2020-09-11 12:02:28,760 INFO Arquivo de histórico atualizado
+2020-09-11 12:02:28,852 INFO Gerando gráfico para Warley
+2020-09-11 12:02:29,159 INFO Gerando gráfico para Alan
+2020-09-11 12:02:29,586 INFO Gerando gráfico para Getulio
+2020-09-11 12:02:29,985 INFO Gerando gráfico para Joao
+2020-09-11 12:02:30,265 INFO Gerando gráfico para Jackson
+2020-09-11 12:02:30,560 INFO Gerando gráfico para Gabriel
+2020-09-11 12:02:30,838 INFO Gerando gráfico para Paulo
+2020-09-11 12:02:31,116 INFO Gerando gráfico para Guaraci
+2020-09-11 12:02:31,416 INFO Gerando gráfico para Felipe
+2020-09-11 12:02:31,705 INFO Gerando gráfico para Eduardo
+2020-09-11 12:02:32,034 INFO Gerando gráfico para Silvio
+2020-09-11 12:02:32,326 INFO Gerando gráfico para Thiago
+2020-09-11 12:02:32,722 INFO Gerando gráfico para Fabio
+2020-09-11 12:02:33,148 INFO Gerando gráfico para Barbara
+2020-09-11 12:02:33,442 INFO Gerando gráfico para Rafael
+2020-09-11 12:02:33,875 INFO Gerando gráfico para Carlos
+2020-09-11 12:02:34,272 INFO Gerando gráfico para Israel
+2020-09-11 12:02:34,699 INFO Gerando gráfico para Augusto
+2020-09-11 12:02:35,109 INFO Gerando gráfico para Jario
+2020-09-11 12:02:35,556 INFO Gerando gráfico para Luiz
+2020-09-11 12:02:35,847 INFO Gerando gráfico para Icaro
+2020-09-11 12:02:36,222 INFO Gerando gráfico para Gustavo
+2020-09-11 12:02:36,541 INFO Gerando gráfico para Silas
+2020-09-11 12:02:36,934 INFO Gerando gráfico para Iago
+2020-09-11 12:02:37,363 INFO Gerando gráfico para Gersiano
+2020-09-11 12:02:37,696 INFO Gerando gráfico para Leandro
+2020-09-11 12:02:37,978 INFO Gerando gráfico para Franco
+2020-09-11 12:02:38,271 INFO Gerando gráfico para Daniel
+2020-09-11 12:02:38,631 INFO Gerando gráfico para Leonardo
+2020-09-11 12:02:39,064 INFO Gerando gráfico para Raul
+2020-09-11 12:02:39,494 INFO Gerando gráfico para Gabriela
+2020-09-11 12:02:39,834 INFO Gerando gráfico para Ademilson
+2020-09-11 12:02:40,137 INFO Gerando gráfico para Wagner
+2020-09-11 12:02:40,550 INFO Gerando gráfico para Alberto
+2020-09-11 12:02:40,866 INFO Gerando gráfico para Dalmo
+2020-09-11 12:02:41,209 INFO Gerando gráficos do gestor
+2020-09-11 12:02:42,687 INFO Fazendo login no servidor de email
+2020-09-11 12:02:44,534 INFO Parando o programa
+2020-09-11 12:06:11,495 INFO Arquivo Selecionado com sucesso 
+2020-09-11 12:06:11,497 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Report Peças em campo 01_09 - SAS.xlsx
+2020-09-11 12:06:12,699 INFO Inicializando o programa
+2020-09-11 12:06:13,444 INFO Lendo planilha gerada em 2020-09-01
+2020-09-11 12:06:13,487 INFO Gerando histórico dos CSES
+2020-09-11 12:06:13,487 INFO Atualizando arquivo de histórico
+2020-09-11 12:06:13,488 INFO Arquivo de histórico atualizado
+2020-09-11 12:06:13,577 INFO Gerando gráfico para Warley
+2020-09-11 12:06:13,947 INFO Gerando gráfico para Alan
+2020-09-11 12:06:14,231 INFO Gerando gráfico para Getulio
+2020-09-11 12:06:14,540 INFO Gerando gráfico para Joao
+2020-09-11 12:06:14,880 INFO Gerando gráfico para Jackson
+2020-09-11 12:06:15,298 INFO Gerando gráfico para Gabriel
+2020-09-11 12:06:15,580 INFO Gerando gráfico para Paulo
+2020-09-11 12:06:15,988 INFO Gerando gráfico para Guaraci
+2020-09-11 12:06:16,428 INFO Gerando gráfico para Felipe
+2020-09-11 12:06:16,861 INFO Gerando gráfico para Eduardo
+2020-09-11 12:06:17,285 INFO Gerando gráfico para Silvio
+2020-09-11 12:06:17,713 INFO Gerando gráfico para Thiago
+2020-09-11 12:06:18,153 INFO Gerando gráfico para Fabio
+2020-09-11 12:06:18,561 INFO Gerando gráfico para Barbara
+2020-09-11 12:06:18,986 INFO Gerando gráfico para Rafael
+2020-09-11 12:06:19,414 INFO Gerando gráfico para Carlos
+2020-09-11 12:06:19,855 INFO Gerando gráfico para Israel
+2020-09-11 12:06:20,283 INFO Gerando gráfico para Augusto
+2020-09-11 12:06:20,688 INFO Gerando gráfico para Jario
+2020-09-11 12:06:21,001 INFO Gerando gráfico para Luiz
+2020-09-11 12:06:21,426 INFO Gerando gráfico para Icaro
+2020-09-11 12:06:21,860 INFO Gerando gráfico para Gustavo
+2020-09-11 12:06:22,293 INFO Gerando gráfico para Silas
+2020-09-11 12:06:22,750 INFO Gerando gráfico para Iago
+2020-09-11 12:06:23,173 INFO Gerando gráfico para Gersiano
+2020-09-11 12:06:23,480 INFO Gerando gráfico para Leandro
+2020-09-11 12:06:24,004 INFO Gerando gráfico para Franco
+2020-09-11 12:06:24,430 INFO Gerando gráfico para Daniel
+2020-09-11 12:06:24,855 INFO Gerando gráfico para Leonardo
+2020-09-11 12:06:25,283 INFO Gerando gráfico para Raul
+2020-09-11 12:06:25,715 INFO Gerando gráfico para Gabriela
+2020-09-11 12:06:26,090 INFO Gerando gráfico para Ademilson
+2020-09-11 12:06:26,389 INFO Gerando gráfico para Wagner
+2020-09-11 12:06:26,678 INFO Gerando gráfico para Alberto
+2020-09-11 12:06:26,955 INFO Gerando gráfico para Dalmo
+2020-09-11 12:06:27,241 INFO Gerando gráficos do gestor
+2020-09-11 12:06:29,430 INFO Fazendo login no servidor de email
+2020-09-11 12:06:30,647 INFO Parando o programa
+2020-09-11 12:08:25,388 INFO Arquivo Selecionado com sucesso 
+2020-09-11 12:08:25,390 INFO Caminho do arquivo: 
+2020-09-11 12:09:05,904 INFO Arquivo Selecionado com sucesso 
+2020-09-11 12:09:05,907 INFO Caminho do arquivo: /media/storage/memorias/code/siemens/acompanhamento-pecas/Report Peças em campo 01_09 - SAS.xlsx
+2020-09-11 12:09:06,850 INFO Inicializando o programa
+2020-09-11 12:09:07,606 INFO Lendo planilha gerada em 2020-09-01
+2020-09-11 12:09:07,652 INFO Gerando histórico dos CSES
+2020-09-11 12:09:07,653 INFO Atualizando arquivo de histórico
+2020-09-11 12:09:07,655 INFO Arquivo de histórico atualizado
+2020-09-11 12:09:07,740 INFO Gerando gráfico para Warley
+2020-09-11 12:09:08,032 INFO Gerando gráfico para Alan
+2020-09-11 12:09:08,313 INFO Gerando gráfico para Getulio
+2020-09-11 12:09:08,605 INFO Gerando gráfico para Joao
+2020-09-11 12:09:08,892 INFO Gerando gráfico para Jackson
+2020-09-11 12:09:09,178 INFO Gerando gráfico para Gabriel
+2020-09-11 12:09:09,588 INFO Gerando gráfico para Paulo
+2020-09-11 12:09:10,015 INFO Gerando gráfico para Guaraci
+2020-09-11 12:09:10,464 INFO Gerando gráfico para Felipe
+2020-09-11 12:09:10,887 INFO Gerando gráfico para Eduardo
+2020-09-11 12:09:11,238 INFO Gerando gráfico para Silvio
+2020-09-11 12:09:11,576 INFO Gerando gráfico para Thiago
+2020-09-11 12:09:11,959 INFO Gerando gráfico para Fabio
+2020-09-11 12:09:12,382 INFO Gerando gráfico para Barbara
+2020-09-11 12:09:12,665 INFO Gerando gráfico para Rafael
+2020-09-11 12:09:12,980 INFO Gerando gráfico para Carlos
+2020-09-11 12:09:13,303 INFO Gerando gráfico para Israel
+2020-09-11 12:09:13,731 INFO Gerando gráfico para Augusto
+2020-09-11 12:09:14,158 INFO Gerando gráfico para Jario
+2020-09-11 12:09:14,582 INFO Gerando gráfico para Luiz
+2020-09-11 12:09:14,995 INFO Gerando gráfico para Icaro
+2020-09-11 12:09:15,279 INFO Gerando gráfico para Gustavo
+2020-09-11 12:09:15,656 INFO Gerando gráfico para Silas
+2020-09-11 12:09:16,089 INFO Gerando gráfico para Iago
+2020-09-11 12:09:16,396 INFO Gerando gráfico para Gersiano
+2020-09-11 12:09:16,769 INFO Gerando gráfico para Leandro
+2020-09-11 12:09:17,128 INFO Gerando gráfico para Franco
+2020-09-11 12:09:17,504 INFO Gerando gráfico para Daniel
+2020-09-11 12:09:17,936 INFO Gerando gráfico para Leonardo
+2020-09-11 12:09:18,366 INFO Gerando gráfico para Raul
+2020-09-11 12:09:18,802 INFO Gerando gráfico para Gabriela
+2020-09-11 12:09:19,132 INFO Gerando gráfico para Ademilson
+2020-09-11 12:09:19,446 INFO Gerando gráfico para Wagner
+2020-09-11 12:09:19,742 INFO Gerando gráfico para Alberto
+2020-09-11 12:09:20,070 INFO Gerando gráfico para Dalmo
+2020-09-11 12:09:20,501 INFO Gerando gráficos do gestor
+2020-09-11 12:09:21,486 INFO Fazendo login no servidor de email
+2020-09-11 12:09:26,058 INFO Email enviado
+2020-09-11 12:09:26,065 INFO Para: Joao, EMAIL       joao_paulo_do_nascimento.azevedo@siemens-healt...
+REGIONAL                                                  NaN
+Name: 33090572 - JOAO PAULO DO NASCIMENTO AZEVEDO, dtype: object, encontradas 14 peças
+2020-09-11 12:09:26,089 INFO Parando o programa
