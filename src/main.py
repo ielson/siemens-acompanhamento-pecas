@@ -48,7 +48,10 @@ class myApp(QtWidgets.QMainWindow):
         selecionado = [botao.isChecked() for botao in botoes].index(True)
         print(botoes[selecionado].text())
 
-        mailSender.main(self.historicoPath)
+        simulacao = self.ui.simulacaoCB.isChecked()
+        print(simulacao)
+
+        mailSender.main(self.historicoPath, simulacao)
 
     def stop(self):
         mailSender.basic_logger.info("Parando o programa")

@@ -29,7 +29,7 @@
       <property name="spacing">
        <number>6</number>
       </property>
-      <item row="4" column="1">
+      <item row="5" column="1">
        <widget class="QPushButton" name="run_button">
         <property name="toolTip">
          <string/>
@@ -70,7 +70,7 @@
         </property>
        </widget>
       </item>
-      <item row="4" column="0">
+      <item row="5" column="0">
        <widget class="QLabel" name="label_3">
         <property name="text">
          <string>Envio de e-mails</string>
@@ -97,7 +97,7 @@
         </property>
        </widget>
       </item>
-      <item row="5" column="1">
+      <item row="6" column="1">
        <widget class="QPushButton" name="stop_button">
         <property name="text">
          <string>Cancelar</string>
@@ -134,7 +134,7 @@
           <item>
            <widget class="QRadioButton" name="radio1">
             <property name="text">
-             <string>NOR</string>
+             <string>&amp;NOR</string>
             </property>
            </widget>
           </item>
@@ -155,7 +155,7 @@
           <item>
            <widget class="QRadioButton" name="radio4">
             <property name="text">
-             <string>SUP</string>
+             <string>S&amp;UP</string>
             </property>
            </widget>
           </item>
@@ -169,7 +169,7 @@
           <item>
            <widget class="QRadioButton" name="radio6">
             <property name="text">
-             <string>SUL</string>
+             <string>SU&amp;L</string>
             </property>
            </widget>
           </item>
@@ -182,6 +182,20 @@
           </item>
          </layout>
         </widget>
+       </widget>
+      </item>
+      <item row="4" column="1">
+       <widget class="QCheckBox" name="simulacaoCB">
+        <property name="text">
+         <string>Sim</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="0">
+       <widget class="QLabel" name="label_4">
+        <property name="text">
+         <string>Simulacao</string>
+        </property>
        </widget>
       </item>
      </layout>
@@ -217,7 +231,7 @@
      <x>0</x>
      <y>0</y>
      <width>1014</width>
-     <height>18</height>
+     <height>32</height>
     </rect>
    </property>
   </widget>

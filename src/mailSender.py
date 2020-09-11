@@ -321,7 +321,7 @@ def mail_gestor(colaborador, historico, server):
     del message
 
 
-def main(planilha):
+def main(planilha, simulacao):
     try:
         global CSES
 
@@ -400,17 +400,18 @@ def main(planilha):
             QtWidgets.QApplication.processEvents()
         wb.save(historicoPath)
 
-        historic = plotter(historicoPath)
+        if not simulacao:
+            historic = plotter(historicoPath)
 
-        context = ssl.create_default_context()
-        s = smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context)
-        s.set_debuglevel(False)
-        with s as server:
-            basic_logger.info("Fazendo login no servidor de email")
-            server.login(sender_email, password)
-            for colaborador in dictCSES.values():
-                mail_sender(colaborador, server)
-            mail_gestor(gestor, historic, server)
+            context = ssl.create_default_context()
+            s = smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context)
+            s.set_debuglevel(False)
+            with s as server:
+                basic_logger.info("Fazendo login no servidor de email")
+                server.login(sender_email, password)
+                for colaborador in dictCSES.values():
+                    mail_sender(colaborador, server)
+                mail_gestor(gestor, historic, server)
     except AttributeError:
         basic_logger.exception("Formato de arquivo não corresponde ao report de peças esperado.")
         basic_logger.warning("Favor escolher outro arquivo.")
@@ -432,11 +433,12 @@ if __name__ == '__main__':
     planilha = '../Histórico/'
     planilha += 'Report Peças em campo 30_10 - SAS.xlsx'
     args = argParsing()
+    simulacao = False 
     parserLevel = getattr(logging, args.loglevel.upper(), None)
     if not isinstance(parserLevel, int):
         raise ValueError('Invalid log level: {}'.format(args.loglevel))
     basic_logger, html_logger = get_loggers(parserLevel)
-    main(planilha)
+    main(planilha, simulacao)
 else:
     parserLevel = 1
     basic_logger, html_logger = get_loggers(parserLevel)
