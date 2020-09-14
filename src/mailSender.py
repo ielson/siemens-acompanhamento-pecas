@@ -400,9 +400,9 @@ def main(planilha, simulacao):
             QtWidgets.QApplication.processEvents()
         wb.save(historicoPath)
 
-        if not simulacao:
-            historic = plotter(historicoPath)
+        historic = plotter(historicoPath)
 
+        if not simulacao:
             context = ssl.create_default_context()
             s = smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context)
             s.set_debuglevel(False)
