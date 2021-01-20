@@ -283,7 +283,7 @@ html_reportar_problema = """
 # %0D é pular linha e %09 tab
 html_pedir_coleta = """
 <td>
-        <a href="mailto:ibl-reversajundiai@ibllogistica.com.br?subject=Solicitação de Coleta&cc=daniel.mascarenhas@siemens-healthineers.com;jackson.cunha@siemens-healthineers.com;gabrieloliveira@siemens-healthineers.com&amp;body=Bom dia senhores, gostaria de solicitar a coleta da peça a seguir:  %0D%0A%0D%0ASolicitação de Coleta%0D%0ACliente   %09 {cliente}%0D%0AChamado %09{chamado}%0D%0ABatch-ID%09{batchId}%0D%0ABatch-ID%09-%0D%0ABatch-ID%09-%0D%0ABatch-ID%09-%0D%0ASetor   %09   -%0D%0AContato %09-%0D%0ATelefone%09-%0D%0AQuant. Volumes%09-%0D%0ALocal das Caixas%09-%0D%0A">Solicitar Coleta</a>
+        <a href="mailto:ibllogisticareversa.br.team@siemens-healthineers.com?subject=Solicitação de Coleta&cc=coletadepecasnordeste@siemens-healthineers.como;jackson.cunha@siemens-healthineers.com;gabrieloliveira@siemens-healthineers.com&amp;body=Bom dia senhores, gostaria de solicitar a coleta da peça a seguir:  %0D%0A%0D%0ASolicitação de Coleta%0D%0ACliente   %09 {cliente}%0D%0AChamado %09{chamado}%0D%0ABatch-ID%09{batchId}%0D%0ABatch-ID%09-%0D%0ABatch-ID%09-%0D%0ABatch-ID%09-%0D%0ASetor   %09   -%0D%0AContato %09-%0D%0ATelefone%09-%0D%0AQuant. Volumes%09-%0D%0ALocal das Caixas%09-%0D%0A">Solicitar Coleta</a>
 </td>
 """
 

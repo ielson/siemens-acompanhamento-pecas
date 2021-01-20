@@ -226,7 +226,7 @@ class Colaborador:
 def mail_sender(colaborador, server):
     message = EmailMessage()
     message["Subject"] = "Acompanhamento de Peças"
-    message["From"] = Address("Daniel do acompanhamento de peças", sender_email, "gmail.com")
+    message["From"] = Address("Controle de Peças Nordeste", sender_email, "gmail.com")
     message["To"] = colaborador.email
     tabelaDePecas = colaborador.pecas[["Batch ID", "Ordem", "Texto breve material", "Ações Necessárias", "Dias em Campo", "Nome 1"]].to_html(
         index=False, justify="center")
@@ -273,7 +273,7 @@ def mail_gestor(colaborador, historico, server):
     basic_logger.info("Criando email do gestor")
     message = EmailMessage()
     message["Subject"] = "Acompanhamento de Peças"
-    message["From"] = Address("Daniel do acompanhamento de peças", sender_email, "gmail.com")
+    message["From"] = Address("Controle de Peças Nordeste", sender_email, "gmail.com")
     message["To"] = colaborador.email
 
     maioresDevedores = sorted(dictCSES.values(), key=lambda item: item.numPecas, reverse=True)[:3]
